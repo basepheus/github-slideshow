@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Name"
+content: "Basepheus"
 ---
-Your text
+This is my file! yay!
 Use the left arrow to go back!
